@@ -1,9 +1,12 @@
 # Portfolio-Data-Analyst
 
 # Project 1: Sales analysis
-# In this project is analysis of a public dataset containing information about sales for a period of one year.
-# For better readability it was done in Jupiter notebook using python and pandas. 
-# It includes the following columns:
+* In this project is analysis of a public dataset containing information about sales for a period of one year.
+* For better readability it was done in Jupiter notebook using python and pandas. 
+* It includes the following columns:
+<html>
+<iframe title="Report Section" width="1280" height="720" src="https://app.powerbi.com/view?r=eyJrIjoiZGUyMGNmOWItYWZkOC00ZTBkLTg3YTEtMDU4NzA4NmU0YzBiIiwidCI6IjlmODI3MWI0LWVkNzAtNDg4OC1iMmE4LWI5ZGIyNmQxMDE1MCJ9" frameborder="0" allowFullScreen="true"></iframe>
+ <html>
 
 
 # After the cleaning of data, the dataset was expanded with additional columns and new usefull calculations.
