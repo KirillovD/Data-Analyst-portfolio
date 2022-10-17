@@ -1,1 +1,9 @@
+Project 2: Analysis of GDP by country 
 
+ The second project is also done in Jupiter notebook using python and pandas. 
+ It is practice on working with three different datasets, with many missing values. 
+
+The two datasets contain information about GDP of countries for about 20 years, and the third one has information about their population. 
+
+The data was cleaned and joined. Then the GDP per capita as well as the GDP growth rate was calculated. 
+At the end I created a Power BI report with filled map and graphs where the user can choose the country and year, to get the corresponding data:
