@@ -13,13 +13,13 @@
    The used dataset includes the following columns:<br>
 
 
-  * After the cleaning of data, the dataset was expanded with additional columns and new usefull calculations:
+   After the cleaning of data, the dataset was expanded with additional columns and new usefull calculations:
 
-  * Then an additional shorter dataset with monthly total revenue and percentage growth was created:
+   Then an additional shorter dataset with monthly total revenue and percentage growth was created:
 
 
-  * At first I have practiced in some basic visualisation with mathplotlit labruary.
-  * Then I created the more advanced Power BI report:
+   At first I have practiced in some basic visualisation with mathplotlit labruary.<br>
+   Then I created the more advanced Power BI report:
 
   
   <iframe title="Report Section" width="1280" height="720" src=
@@ -28,14 +28,14 @@
     
   <h2>
       
- # Project 2: Analyse of GDP by country
-  * The second project is also done in Jupiter notebook using python and pandas. 
-  * The following project is practice for a bad scenario working with three different datasets, with many missing values.
-  * The two datasets contain information about GDP of countries for about 20 years, and the third one has information about 
+  Project 2: Analyse of GDP by country
+   The second project is also done in Jupiter notebook using python and pandas.<br> 
+   The following project is practice for a bad scenario working with three different datasets, with many missing values.<br>
+   The two datasets contain information about GDP of countries for about 20 years, and the third one has information about<br> 
   their population. The data was cleaned and joined. Then the GDP per capita as well as the GDP growth rate was calculated.
 
 
-  * Then I created a Power BI report with filled map and graphs where the user can choose the country and year, to 
+   Then I created a Power BI report with filled map and graphs where the user can choose the country and year, to<br> 
    get the corresponding data:
    <iframe title="Report Section" width="1300" height="1200" src="https://app.powerbi.com/view?r=eyJrIjoiZmZkNjdmYTEtMTMzNC00ZmJhLTg2NjMtMmExNWUxNzM5MzA3IiwidCI6IjlmODI3MWI0LWVkNzAtNDg4OC1iMmE4LWI5ZGIyNmQxMDE1MCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
