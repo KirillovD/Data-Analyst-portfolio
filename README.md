@@ -15,14 +15,14 @@
 
 
   * At first I have practiced in some basic visualisation with mathplotlit labruary.
-  * Then I created the more advanced Power BI report:</h1>
+  * Then I created the more advanced Power BI report:
 
  
   <iframe title="Report Section" width="1280" height="720" src=
   "https://app.powerbi.com/view?r=eyJrIjoiZGUyMGNmOWItYWZkOC00ZTBkLTg3YTEtMDU4NzA4NmU0YzBiIiwidCI6IjlmODI3MWI0LWVkNzAtNDg4OC1iMmE4LWI5ZGIyNmQxMDE1MCJ9" frameborder="0" allowFullScreen="true">
     </iframe>
 
-    <h2>
+    
  Project 2: Analyse of GDP by country
   * The second project is also done in Jupiter notebook using python and pandas. 
   * The following project is practice for a bad scenario working with three different datasets, with many missing values.
@@ -31,7 +31,7 @@
 
 
   * Then I created a Power BI report with filled map and graphs where the user can choose the country and year, to 
-   get the corresponding data:</h2>
+   get the corresponding data:</h1>
     
    <iframe title="Report Section" width="1300" height="1200" src="https://app.powerbi.com/view?r=eyJrIjoiZmZkNjdmYTEtMTMzNC00ZmJhLTg2NjMtMmExNWUxNzM5MzA3IiwidCI6IjlmODI3MWI0LWVkNzAtNDg4OC1iMmE4LWI5ZGIyNmQxMDE1MCJ9" frameborder="0" allowFullScreen="true"          </iframe>
 
