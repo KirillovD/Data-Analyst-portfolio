@@ -5,4 +5,4 @@
 
  *After the cleaning of data, the dataset was expanded with additional columns and new useful calculations. 
  Then an additional shorter dataset with monthly total revenue and percentage growth was created. 
- *At first, I practiced basic visualization with mathplotlib library, then I created the more advanced Power BI report:
+ *At first, I practiced basic visualization with mathplotlib library, then I created the more advanced Power BI report.
