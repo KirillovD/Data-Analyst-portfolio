@@ -1,6 +1,6 @@
 <html>
-  <p>Portfolio Data Analyst&nbsp;</p>
-<p>&nbsp;Project 1: Sales analysis library</p>
+  <p>Data Analyst portfolio mande by Daniil Kirillov&nbsp;</p>
+<p>&nbsp;Project 1: Sales analysis </p>
 <p>&nbsp;This project is an analysis of a public dataset containing information about sales for one year. For better readability, it was done in Jupiter notebook using python and pandas.&nbsp;</p>
 <p>&nbsp;After the cleaning of data, the dataset was expanded with additional columns and new useful calculations. Then an additional shorter dataset with monthly total revenue and percentage growth was created.&nbsp;</p>
 <p>At first, I practiced basic visualization with mathplotlib library. &nbsp;Then I created the more advanced Power BI report: <iframe title="Report Section" width="1280" height="720" src="https://app.powerbi.com/view?r=eyJrIjoiZGUyMGNmOWItYWZkOC00ZTBkLTg3YTEtMDU4NzA4NmU0YzBiIiwidCI6IjlmODI3MWI0LWVkNzAtNDg4OC1iMmE4LWI5ZGIyNmQxMDE1MCJ9" frameborder="0" allowfullscreen="true"></iframe> Project 2: Analyse of GDP by country&nbsp;</p>
