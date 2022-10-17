@@ -7,10 +7,10 @@
   <body>
     <h1>
       
-  Project 1: Sales analysis
-   In this project is analysis of a public dataset containing information about sales for a period of one year.
-   For better readability it was done in Jupiter notebook using python and pandas. 
-   The used dataset includes the following columns:
+  Project 1: Sales analysis<br>
+   In this project is analysis of a public dataset containing information about sales for a period of one year.<br>
+   For better readability it was done in Jupiter notebook using python and pandas.<br>
+   The used dataset includes the following columns:<br>
 
 
   * After the cleaning of data, the dataset was expanded with additional columns and new usefull calculations:
