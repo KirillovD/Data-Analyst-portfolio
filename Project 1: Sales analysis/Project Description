@@ -1,1 +1,8 @@
+ #Project 1: Sales analysis
 
+ *This project is an analysis of a public dataset containing information about sales for one year. For better readability, 
+ it was done in Jupiter notebook using python and pandas. 
+
+ *After the cleaning of data, the dataset was expanded with additional columns and new useful calculations. 
+ Then an additional shorter dataset with monthly total revenue and percentage growth was created. 
+ *At first, I practiced basic visualization with mathplotlib library, then I created the more advanced Power BI report:
